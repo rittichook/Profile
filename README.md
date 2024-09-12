@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rittichok Fai Japoh (Bank) – Full Stack Developer
 
-Welcome to my GitHub profile! I’m **Rittichok Fai Japoh**, also known as **Bank**, a Full Stack Developer with over **1 year and 9 months** of experience in both backend and frontend development. I enjoy solving complex problems, designing system architectures, and creating seamless user experiences for web and mobile applications.
+Welcome to my GitHub profile! I’m **Rittichok Fai Japoh**, also known as **Bank**, a Full Stack Developer with over **1 year and 7 months** of experience in both backend and frontend development. I enjoy solving complex problems, designing system architectures, and creating seamless user experiences for web and mobile applications.
 
 ## 🚀 About Me
 
